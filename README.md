@@ -9,7 +9,7 @@ this repo and serves it at `/data/presets/`.
 One directory per synth:
 
 - `vital/` - Vital presets
-- `odin2/` - Odin2 presets (to come)
+- `odin2/` - Odin2 presets: factory (GPL-3.0), Lukas Lundh, PSY-LION
 - `surge/` - Surge presets (to come)
 
 Each pack carries its own licence file inside its folder. Only presets whose licence allows
